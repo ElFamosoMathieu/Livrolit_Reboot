@@ -1,0 +1,41 @@
+Utilisateur :
+
+Identifié par un pseudonyme unique,
+a un mot de passe (salé),
+a un thème (fiche de style CSS) 
+[plus tard va évoluer en différents éléments avec couleur]
+	-> Ex : fond = #0ED207
+
+
+Livre :
+
+Identifié par un numéro (unique),
+a un titre,
+un genre,
+un auteur,
+un éditeur,
+un synopsis,
+une critique,
+une note.
+
+
+Commentaire :
+
+Identifié par un numéro (unique),
+un auteur (utilisateur -> son pseudo),
+un livre,
+un contenu,
+une date,
+un prédécesseur (!= null si une réponse).
+
+
+
+_____________________________________________
+
+POUR AMELIORER  (à travailler)
+
+Auteur :
+
+?
+?
+?
